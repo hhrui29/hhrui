@@ -1,0 +1,11 @@
+#include<stdio.h>
+void main()
+	{
+			float a,b,max;
+      printf("Please input a: ");
+      scanf("%f",&a);
+      if(a>=60)
+      	printf("pass\n");
+      else
+      	printf("fail\n");
+	}	
